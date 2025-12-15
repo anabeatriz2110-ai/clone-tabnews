@@ -1,5 +1,5 @@
 function Home(){
-return <h1>Eu te amo meu amorzinho S2</h1>
+return <h1>Eu te amo meu amorzinho muito muitão S2</h1>
 }
 
 export default Home;
